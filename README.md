@@ -1,4 +1,5 @@
-Privacy Policy
+# Privacy Policy
+
 # What information do we collect?
 * Extension collects the SCREENSHOTS and its associated text data and stores it on the user's device.
 * Extension DOESN'T transmit or store any type of data outside user's computer.
